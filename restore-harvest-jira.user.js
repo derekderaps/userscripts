@@ -3,6 +3,7 @@
 // @namespace    tenderwolf
 // @version      0.1
 // @description  Moves the Harvest time tracking plugin to top of JIRA sidebar, where it used to be!
+// @author       Derek "Hawkeye Tenderwolf" DeRaps
 // @match        https://*.atlassian.net/*
 // @grant        none
 // ==/UserScript==
